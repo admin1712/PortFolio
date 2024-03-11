@@ -20,10 +20,9 @@ const PortFolio = () => {
 
                         <div className="portfolio__data">
                             <h3 className="portfolio__title">LinkedIn Profile</h3>
-                            <p className="portfolio__description">I am Civil Engineering under graduate proficient 
-                                in building software systems. Seasoned knowledge and understanding of 
-                                Full Stack Development and a part 
-                                time dancing.
+                            <p className="portfolio__description">I am a Civil Engineer who is passionate about everything that can be coded.
+                              I have a keen interest in building software systems with knowledge in both frontend and backend technologies.
+                              I am poised to tackle diverse challenges and deliver innovative solutions making me a valuable asset in any project.
 
                             </p>
                             <div className="portfolio__calendar">
