@@ -21,10 +21,10 @@ const Navbar = () => {
          onClick={()=> setMenuOpen(false)}
         >
             <li><a href="#about">About</a></li>
-            <li><a href="#Qualification">Experience</a></li>
-            <li><a href="#Skills">Skills</a></li>
-            <li><a href="#Projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#qualification">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+{/*             <li><a href="#contact">Contact</a></li> */}
         </ul>
       </div>
    </nav>
