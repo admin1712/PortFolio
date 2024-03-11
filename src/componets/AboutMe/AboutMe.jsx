@@ -1,5 +1,6 @@
 import React from 'react'
 import './AboutMe.css';
+import resume from "../../../assets/resume/Aishwarya__Resume.pdf";
 
 const AboutMe = () => {
   return (
@@ -31,7 +32,7 @@ const AboutMe = () => {
                         </div>
                     </div>
                     <div className="about__buttons">
-                        <a download="" href="../../assets/resume/Aishwarya__Resume.pdf" target="_blank" className="button button--flex">
+                        <a download="" href={resume} target="_blank" className="button button--flex">
                             Download CV <i className="uil uil-download-alt button__icon"></i>
                         </a>
 
